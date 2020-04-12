@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+h1 {
+    margin: 0;
+}
+div {
+    background: #e6faf7;
+}
+.top-container {
+}
+.mid-container {
+    background: blue;
+}
+.bot-container {
+    background: red;
+}
+.div200 {
+    width: 200px;
+    height: 200px;
+}
